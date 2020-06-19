@@ -1,3 +1,7 @@
 The following types of roads need to be built:-
    - circle
+<<<<<<< HEAD
    - Triangle
+=======
+   - oval
+>>>>>>> oval added to road
